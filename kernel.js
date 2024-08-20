@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     output = files.sort().join('\n');;
                     break;
                 default:
-                    output = `Command not found: ${command} Type 'help' for more information`;
+                    output = `Command not found: ${command} (Type 'help' for more information)`;
             }
         }
         return output;
