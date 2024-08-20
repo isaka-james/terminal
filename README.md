@@ -7,11 +7,11 @@ Welcome to my portfolio, but not just any portfolio—a command-line interface (
 - **Kali Linux-Style CLI**: Step into the shoes of a pentester. Type commands, explore directories, and feel like you're breaking into a system—except you're diving into my work.
 - **Apple Window Aesthetics**: Because who said a terminal can't be beautiful? Smooth gradients, refined fonts, and a minimalist design that pays homage to Apple's clean interface.
 - **Interactive Navigation**: Forget clicking around; interact with my portfolio by typing commands. It’s functional, fast, and fun.
-- **Easter Eggs**: Hidden commands and surprises—if you can find them. 
+- **Easter Eggs**: Hidden commands and surprises—if you can find them.
 
 ## 🛠️ How It Works
 
-1. **Fire Up the Terminal**: Open the website, and you're instantly in a terminal environment. 
+1. **Fire Up the Terminal**: Open the website, and you're instantly in a terminal environment.
 2. **Explore with Commands**: Use commands like `ls`, `cd`, and `cat` to navigate and uncover what I've been up to.
 3. **Dig Deeper**: Want to see my projects? Just type `projects` and get a detailed list. Curious about me? `whoami` has you covered.
 4. **Experience the UI**: While you’re at it, enjoy the smooth, responsive design that transitions seamlessly between elements—like hacking, but make it fashion.
