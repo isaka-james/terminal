@@ -1,5 +1,9 @@
 # 🔥 Portfolio Terminal - Hack Your Way Through My World 🌐
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=isaka-terminal&label=Terminal&color=0e75b6&style=flat" alt="since 04 Sept,2024" />
+</p>
+
 Welcome to my portfolio, but not just any portfolio—a command-line interface (CLI) experience inspired by the smooth precision of Kali Linux and the iconic flair of Apple. This isn't your ordinary website; it's a playground where you can navigate my world like a pro hacker, all while enjoying the elegance of a designer's touch.
 
 ## 🚀 Features
